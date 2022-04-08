@@ -1,0 +1,133 @@
+html, body{
+	height: 100%;
+	font-family: "Marcellus SC", sans-serif;
+}
+
+#home{
+	background: #f3c01b;
+	padding: 80px 0px 1px 0px;
+}
+
+#conteudo{
+	clear: both;
+}
+#quem-somos{
+}
+#trabalhos{
+	background-color: #f0f0f0;
+}
+
+#trabalhos h1{
+	padding-top: 50px;
+}
+
+#contato{
+}
+
+#contato button{
+	margin: 15px 0px;
+}
+
+.capa {
+	text-align: center;
+}
+
+.caixa{
+	padding:30px;
+	padding-top: 100px;
+}
+
+.img-apoio{
+	width: 310px;
+	margin: 0px;
+	padding: 1px;
+}
+.img-contato{
+	margin-left: 60px ;
+	border-radius: 150px;
+}
+
+.img-trabalho{
+
+	margin-bottom: 50px;
+}
+
+.img-empresa{
+	width: 380px;
+}
+.espaco{
+	margin-right: 10px;
+}
+
+#contato label{
+	margin-top: 5px;
+}
+
+/*Barra de Navegação*/
+
+/*Definindo a cor e transparencia*/
+nav.navbar-transparente{
+	padding: 2px 0px;
+	background-color: #000;
+}
+
+.divisor{
+	width: 1px;
+	background: #ffff;
+	margin: 12px 4px;
+}
+
+/*Cor cabecalho*/
+
+#nav-principal a {
+	color: #ffff;
+}
+
+#nav-principal a:hover {
+	color: #f3c01b;
+}
+
+p{
+	font-size: 19px;
+}
+
+h1{
+	font-size: 30px;
+}
+
+header a{
+	font-size: 20px;
+}
+
+#contato label{
+	font-size: 18px;
+}
+
+/*Rodpé*/
+footer{
+	background: #000;
+	padding: 30px 0px 20px 0px;
+	margin-top: 25px;
+	position: relative;
+}
+
+footer p{
+	background: #000;
+	padding: 5px 0px;
+
+	color: #a0a0a0;
+}
+
+footer ul{
+	list-style: none;
+}
+
+footer ul li{
+	float: right;
+	margin: 0 5px;
+}
+
+footer img{
+	width: 35px;
+	padding-top: 3px;
+}
